@@ -1,0 +1,136 @@
+.main {
+  margin-top: 10%;
+}
+.finder {
+  display: flex;
+  justify-content: space-around;
+}
+.main__img {
+  width: 247px;
+  height: 247px;
+}
+.main__img1 {
+  width: 177px;
+  height: 237px;
+}
+.main__block {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.main__title {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 18px;
+  text-align: right;
+  text-transform: uppercase;
+  color: #3d3d3d;
+  width: 170px;
+}
+.main__part {
+  display: flex;
+  justify-content: end;
+  align-items: end;
+  flex-direction: column;
+}
+.main__text {
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-size: 14px;
+  text-align: right;
+  color: #727272;
+  width: 312px;
+  margin: 16px 0 16px 0;
+}
+.main__button {
+  width: 140px;
+  height: 40px;
+  background: #46a358;
+  border-radius: 6px;
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 14px;
+  color: #ffffff;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.next {
+  width: 20px;
+  height: 20px;
+  margin-left: 5px;
+}
+/*Blog*/
+.blog {
+  margin-top: 10%;
+}
+.blog__start {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.blog__block {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 35px;
+}
+.blog__span {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 14px;
+  color: #46a358;
+}
+.blog__title {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 20px;
+  color: #3d3d3d;
+  width: 210px;
+  margin: 4px 0 4px 0;
+}
+.blog__text {
+  font-family: "Montserrat";
+  font-size: 14px;
+  color: #727272;
+  width: 242px;
+  margin-bottom: 9px;
+}
+.blog__link {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 14px;
+  color: #3d3d3d;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  transition-duration: 0.7s;
+}
+.blog__link:hover {
+  color: #46a358;
+}
+.link__img {
+  width: 12.03px;
+  height: 13px;
+  margin-left: 5px;
+}
+.start__title {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 30px;
+  color: #3d3d3d;
+  margin-bottom: 15px;
+}
+.start__text {
+  font-family: "Montserrat";
+  font-size: 14px;
+  color: #727272;
+}
+.blog__img {
+  width: 268px;
+  height: 195.17px;
+}
+.blog__part {
+  width: 268px;
+}
